@@ -7,3 +7,4 @@ alias myip='curl ipinfo.io/ip'
 alias k="kubectl"
 alias tf="terraform"
 alias d="docker"
+alias gh='history|grep'
