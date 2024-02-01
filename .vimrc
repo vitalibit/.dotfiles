@@ -35,8 +35,8 @@ set expandtab
 " Set tab width to 4 columns.
 set tabstop=4
 
-" Set shift width to 4 spaces.
-set shiftwidth=4
+" Set shift width to 2 spaces.
+set shiftwidth=2
 
 set softtabstop=4
 
