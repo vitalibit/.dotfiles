@@ -3,6 +3,6 @@
         ci = commit
         st = status
         br = branch
-        hist = log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short
+        hist = log --pretty=format:'%C(auto)%h %C(cyan)%ad%Creset | %C(bold green)%s%Creset%C(red)%d%Creset [%C(blue)%an%Creset]' --graph --date=short
         type = cat-file -t
         dump = cat-file -p
